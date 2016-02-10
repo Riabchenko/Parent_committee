@@ -1,0 +1,219 @@
+2015-07-01 20:57:58,129 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:58:01,506 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:58:04,037 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:58:04,456 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 20:58:04,456 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:58:04,893 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 20:58:12,780 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 20:58:12,919 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 20:59:23,311 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:59:26,575 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:59:29,127 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:59:29,556 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 20:59:29,557 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 20:59:29,984 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 20:59:45,968 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 20:59:46,093 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:01:47,986 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:01:47,986 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:01:58,264 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:02:01,641 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:02:04,410 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:02:04,861 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:02:04,861 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:02:05,283 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:02:11,685 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:02:11,809 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:03:52,997 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:03:52,998 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:03:56,134 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:04:01,147 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:04:05,139 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:04:06,070 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:04:06,070 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:04:06,677 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:04:18,547 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:04:18,670 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:06:14,437 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:06:24,548 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:06:30,654 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:06:36,196 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:06:37,116 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:06:37,116 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:06:38,028 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:06:43,764 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:06:43,887 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:08:35,369 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:08:35,370 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:08:40,331 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:08:46,439 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:08:51,355 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:08:52,901 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:08:52,901 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:08:53,812 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:09:01,188 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:09:01,312 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:10:42,981 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:10:42,981 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:10:47,943 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:10:54,451 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:10:59,459 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:11:00,390 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:11:00,390 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:11:01,301 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:11:06,834 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:11:06,958 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:13:17,463 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:13:17,464 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-01 21:13:20,604 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:13:26,916 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:13:32,046 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:13:33,069 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:13:33,069 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:13:33,982 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:13:39,821 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:13:39,945 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:14:56,625 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:15:03,071 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:15:07,987 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:15:08,917 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:15:08,917 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-01 21:15:09,830 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-01 21:15:15,976 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-01 21:15:16,102 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-01 21:16:33,076 ERROR [com.committee.model.util.ConnectionPool] - Connection conn didn't close!
+2015-07-03 09:14:26,096 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:14:30,660 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:14:33,163 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:14:33,632 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:14:33,632 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:14:34,067 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:15:29,695 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:15:33,145 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:15:35,697 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:15:36,274 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:15:36,274 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:15:36,695 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:17:39,211 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:17:43,328 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:17:46,073 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:17:46,535 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:17:46,536 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:17:46,948 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:18:28,709 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:18:31,937 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:18:34,506 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:18:34,936 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:18:34,936 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:18:35,365 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:22:25,830 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:22:29,740 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:22:32,371 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:22:32,820 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:22:32,820 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:22:33,247 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:22:33,460 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 09:22:33,978 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 09:50:38,073 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:50:41,539 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:50:44,215 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:50:44,656 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:50:44,656 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 09:50:45,251 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 09:50:45,406 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 09:50:45,548 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 10:51:37,734 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:51:41,226 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:51:43,766 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:51:44,191 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 10:51:44,191 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:51:44,607 ERROR [com.committee.model.util.ConnectionPool] - Didn't creat the connection with DB! User 'b83b2f2476b7e2' has exceeded the 'max_user_connections' resource (current value: 4)
+2015-07-03 10:51:44,761 ERROR [com.committee.model.dao.AccessDAO] - Access don't search for telephone =null
+2015-07-03 10:51:44,762 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 10:53:04,123 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:53:06,224 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:53:07,626 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:53:09,043 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:53:10,522 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Table 'sql482163.access' doesn't exist
+2015-07-03 10:54:24,075 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Table 'sql482163.access' doesn't exist
+2015-07-03 10:58:33,825 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:58:35,331 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:58:36,675 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:58:38,045 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:58:39,502 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Table 'sql482163.telephones' doesn't exist
+2015-07-03 10:59:25,775 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:59:27,289 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:59:28,657 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:59:30,036 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 10:59:31,511 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Table 'sql482163.telephones' doesn't exist
+2015-07-03 11:01:24,449 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:01:25,950 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:01:27,306 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:01:28,668 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:01:30,206 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:01:30,333 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:04:08,823 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:04:10,330 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:04:11,719 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:04:13,102 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:04:14,583 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:04:14,712 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:05:33,422 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:05:34,928 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:05:36,270 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:05:37,665 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:05:39,170 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:05:39,300 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:08:10,876 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:08:12,425 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:08:13,808 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:08:15,203 INFO [com.committee.model.util.ConnectionPool] - create conn
+2015-07-03 11:08:17,158 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:08:17,289 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:12:21,057 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:12:21,185 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:12:33,090 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Table 'sql482163.cash' doesn't exist
+2015-07-03 11:13:55,803 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:13:55,933 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:14:08,223 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Table 'sql482163.cash' doesn't exist
+2015-07-03 11:14:27,264 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:14:27,277 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:23:13,715 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:23:13,846 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:23:21,048 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Table 'sql482163.cash' doesn't exist
+2015-07-03 11:24:59,749 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:24:59,881 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:25:08,087 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Table 'sql482163.cash' doesn't exist
+2015-07-03 11:26:44,608 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:26:44,738 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:26:56,743 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Table 'sql482163.parents' doesn't exist
+2015-07-03 11:28:18,214 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:28:18,349 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:57:50,144 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:50,384 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:50,610 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:50,837 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:51,062 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:51,291 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:51,515 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:51,752 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:51,974 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:57:52,199 ERROR [com.committee.model.dao.UserServiceImpl] - Didn't creat the connection with DB! User sql482163 already has more than 'max_user_connections' active connections
+2015-07-03 11:58:46,512 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 11:58:46,642 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 11:59:28,944 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 11:59:29,404 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 11:59:53,026 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 11:59:53,486 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 12:00:39,776 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 12:06:55,610 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 12:06:55,740 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 12:07:03,226 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 12:07:11,625 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 12:07:12,078 ERROR [com.committee.model.dao.ServiceImpl] - SQLException - Error reques!Value '0000-00-00 00:00:00' can not be represented as java.sql.Date
+2015-07-03 12:12:24,622 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 12:12:24,751 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 12:30:53,852 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 12:30:53,978 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
+2015-07-03 14:18:08,532 ERROR [com.committee.model.dao.AccessDAO] - SQLException - Error request at the access!Can't call commit when autocommit=true
+2015-07-03 14:18:08,667 INFO [com.committee.model.dao.AccessDAO] - Admin 1 has logged in
